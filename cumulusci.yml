@@ -17,7 +17,6 @@ tasks:
 
 orgs:
     scratch:
-
         dev:
             config_file: orgs/unmanaged.json
         feature:
